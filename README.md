@@ -58,7 +58,7 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Al-Numan&count_private=true&theme=radical&hide_border=true" alt="Abdullah-Al-Numan"/></td>
  </tr>
   <tr>
-    <td rowspan="2"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=numan\&layout=compact" alt="waka time"/></td>
+    <td colspan="2"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=numan\&layout=compact" alt="waka time"/></td>
   </tr>
 </table>
 
