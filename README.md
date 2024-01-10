@@ -14,6 +14,9 @@
 
 <br />
 
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Abdullah-Al-Numan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 #### 🛠  Technologies and tools
 
 ---
@@ -44,14 +47,11 @@
 <a name="learning-next"></a>
 <br />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdullah-Al-Numan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 #### :bookmark: 𝐆𝐢𝐭H𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬!
 </br>
 <table align="center" border="2">
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Numan&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true&layout=pie" alt="Abdullah-Al-Numan"/></td>
+    <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Numan&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true&layout=pie" alt="Abdullah-Al-Numan"/></td>
 <td><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abdullah-Al-Numan&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true" alt="Abdullah-Al-Numan" /></td> 
   </tr>
  <tr>
