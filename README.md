@@ -52,12 +52,18 @@
 
 #### :bookmark: 𝐆𝐢𝐭H𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬!
 </br>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-Al-Numan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Abdullah-Al-Numan" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Al-Numan&show_icons=true&locale=en&theme=radical" alt="Abdullah-Al-Numan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Al-Numan&theme=radical" alt="Abdullah-Al-Numan" /></p>
+<table align="center" border="2">
+  <tr>
+    <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Numan&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true&layout=pie" alt="Abdullah-Al-Numan"/></td>
+<td><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abdullah-Al-Numan&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true" alt="Abdullah-Al-Numan" /></td> 
+  </tr>
+ <tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Al-Numan&count_private=true&theme=radical&hide_border=true" alt="Abdullah-Al-Numan"/></td>
+ </tr>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=numan\&layout=compact" alt="walkatatime"/></td>
+  </tr>
+</table>
 
 
 #### :earth_americas:&nbsp; 𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧𝐥𝐢𝐧𝐞!
