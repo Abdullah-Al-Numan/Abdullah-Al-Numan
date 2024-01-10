@@ -63,7 +63,7 @@
 </table>
 
 
-####:earth_americas:&nbsp; 𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧𝐥𝐢𝐧𝐞!
+#### 𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧𝐥𝐢𝐧𝐞!
 ---
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalnuman66@gmail.com)
