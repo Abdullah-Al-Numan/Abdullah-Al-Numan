@@ -42,28 +42,28 @@
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <a name="learning-next"></a>
-
-
-
 <br />
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abdullah-Al-Numan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 #### :bookmark: 𝐆𝐢𝐭H𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬!
 </br>
 <table align="center" border="2">
   <tr>
-    <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Numan&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true&layout=pie" alt="Abdullah-Al-Numan"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Numan&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true&layout=pie" alt="Abdullah-Al-Numan"/></td>
 <td><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abdullah-Al-Numan&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true" alt="Abdullah-Al-Numan" /></td> 
   </tr>
  <tr>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Al-Numan&count_private=true&theme=radical&hide_border=true" alt="Abdullah-Al-Numan"/></td>
  </tr>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=numan\&layout=compact" alt="walkatatime"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=numan\&layout=compact" alt="waka time"/></td>
   </tr>
 </table>
 
 
-#### :earth_americas:&nbsp; 𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧𝐥𝐢𝐧𝐞!
+####:earth_americas:&nbsp; 𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧𝐥𝐢𝐧𝐞!
 ---
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalnuman66@gmail.com)
