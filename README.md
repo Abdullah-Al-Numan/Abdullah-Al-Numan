@@ -30,7 +30,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Nest.js](https://img.shields.io/badge/nestjs-%23404d59.svg?style=for-the-badge&logo=nestjs&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql.svg?style=for-the-badge&logo=mysqle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23404d59.svg?style=for-the-badge&logo=mysqle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled-components.svg?style=for-the-badge&logo=styled-components&logoColor=white)
