@@ -33,6 +33,7 @@
 ![Nest.js](https://img.shields.io/badge/nestjs-%23404d59.svg?style=for-the-badge&logo=nestjs&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%23404d59.svg?style=for-the-badge&logo=mysqle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sanity](https://img.shields.io/badge/sanity-%23039BE5.svg?style=for-the-badge&logo=sanity)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled-components.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
